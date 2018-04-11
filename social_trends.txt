@@ -1,0 +1,5 @@
+Observable Trends:
+
+1) All 5 channels had comparable sentiment analysis results
+2) The majority of news tweets were negative
+3) Only BBC and NY times had overall negative compound scores
